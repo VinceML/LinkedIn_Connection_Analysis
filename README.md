@@ -8,5 +8,5 @@ I wanted to anslyse the Connections.csv file, as exported from LinkedIn, to unde
 2. How long I have known them
 
 ## HOW
-- Using Python, REGEX and the NTLK library, I could efficiently dissect strings to extract, then count Keywords, Bigrams (word pairs), Trigrams etc
+- I have inferred the WHO, by using Python, REGEX and the NTLK library, to efficiently dissect strings in my connections' POSITION and COMPANY details, then count Keywords, Bigrams (word pairs), Trigrams etc
 - I also used Matplotlib and a Pareto to simply visualise those outputs
